@@ -6,6 +6,7 @@ Created on Fri Jul 31 09:19:55 2020
 """
 
 def g_wfs_precalc(modes, angles, width, height):
+# Calculate de H matix for the ZP adjustment
     import numpy as np
     import sympy as sp
     import math
