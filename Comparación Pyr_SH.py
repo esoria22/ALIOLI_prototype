@@ -4,8 +4,7 @@
 Created on Thu Apr 16 12:19:30 2020
 
 @author: esthersoriahernandez
- return swfs, Tsh_aperture,pup_array_grid
-    shwfs,Tsh_aperture,pupil_array_grid=SH_wfs.SH(telescope_diameter, wavelength_wfs)
+ 
 """
 
 from hcipy import *
